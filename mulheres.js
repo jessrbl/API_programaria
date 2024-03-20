@@ -20,5 +20,5 @@ function mostraPorta() {
 }
 
 
-app.use(router.get('/mulher', mostraMulher))
+app.use(router.get('/mulheres', mostraMulher))
 app.listen(porta, mostraPorta)
