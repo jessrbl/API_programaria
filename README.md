@@ -1,3 +1,5 @@
+<h6> <a href = "https://github.com/jessrbl/API_programaria/blob/main/README-EN.md"> English version </a></h6>
+
 # API - Mulheres 
 
 Esta API foi desenvolvida com o intuito de **criar um banco de dados de mulheres da tecnologia**.  
@@ -59,7 +61,7 @@ Obrigada pela atenção =)
 
 ____
 
-<h2> ✨ Author</h2>
+<h2> ✨ Autor</h2>
 
 <table>
   <tr>
